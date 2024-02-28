@@ -1,3 +1,12 @@
+/*
+Author: Hima karan Pusarla
+Date: 02/28.2024
+Comments: This C# Console Application code demonstrates the
+     Bubble Sort Algorithms. No input is required for the script. It will execute without 
+    input against the pre-populated array. 
+*/
+
+
 ﻿namespace BubbleSort
 {
     internal class Program
